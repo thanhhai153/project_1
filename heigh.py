@@ -26,3 +26,5 @@ try:
 #Khoi lenh duoc thuc thi khi loi xay ra
 except:
   print("dinh dang dau vao khong hop le!") #In thong bao
+  
+#test
